@@ -1,4 +1,4 @@
-# Meu Repositório De Autenticações-DIO
+# Meu Repositório de Autenticações-DIO
 
 Repositorio de teste de autenticações
 
